@@ -1,0 +1,42 @@
+[
+    {
+        "domain": "google.com",
+        "issued_to": "*.google.com",
+        "issued_by": "Google Trust Services",
+        "valid_from": "Jun 15 08:38:57 2026 GMT",
+        "valid_until": "Sep  7 08:38:56 2026 GMT",
+        "remaining_days": 61,
+        "tls_version": "TLSv1.3",
+        "status": "VALID"
+    },
+    {
+        "domain": "github.com",
+        "issued_to": "github.com",
+        "issued_by": "Sectigo Limited",
+        "valid_from": "Jul  3 00:00:00 2026 GMT",
+        "valid_until": "Sep 30 23:59:59 2026 GMT",
+        "remaining_days": 85,
+        "tls_version": "TLSv1.3",
+        "status": "VALID"
+    },
+    {
+        "domain": "openai.com",
+        "issued_to": "openai.com",
+        "issued_by": "Google Trust Services",
+        "valid_from": "May 21 03:43:58 2026 GMT",
+        "valid_until": "Aug 19 04:43:56 2026 GMT",
+        "remaining_days": 42,
+        "tls_version": "TLSv1.3",
+        "status": "VALID"
+    },
+    {
+        "domain": "example.com",
+        "issued_to": "example.com",
+        "issued_by": "SSL Corporation",
+        "valid_from": "May 31 21:39:12 2026 GMT",
+        "valid_until": "Aug 29 21:41:26 2026 GMT",
+        "remaining_days": 53,
+        "tls_version": "TLSv1.3",
+        "status": "VALID"
+    }
+]

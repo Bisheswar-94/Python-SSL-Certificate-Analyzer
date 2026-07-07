@@ -1,0 +1,44 @@
+==================================================
+Domain         : google.com
+Issued To      : *.google.com
+Issued By      : Google Trust Services
+Valid From     : Jun 15 08:38:57 2026 GMT
+Valid Until    : Sep  7 08:38:56 2026 GMT
+Days Remaining : 61
+TLS Version    : TLSv1.3
+Status         : VALID
+==================================================
+
+==================================================
+Domain         : github.com
+Issued To      : github.com
+Issued By      : Sectigo Limited
+Valid From     : Jul  3 00:00:00 2026 GMT
+Valid Until    : Sep 30 23:59:59 2026 GMT
+Days Remaining : 85
+TLS Version    : TLSv1.3
+Status         : VALID
+==================================================
+
+==================================================
+Domain         : openai.com
+Issued To      : openai.com
+Issued By      : Google Trust Services
+Valid From     : May 21 03:43:58 2026 GMT
+Valid Until    : Aug 19 04:43:56 2026 GMT
+Days Remaining : 42
+TLS Version    : TLSv1.3
+Status         : VALID
+==================================================
+
+==================================================
+Domain         : example.com
+Issued To      : example.com
+Issued By      : SSL Corporation
+Valid From     : May 31 21:39:12 2026 GMT
+Valid Until    : Aug 29 21:41:26 2026 GMT
+Days Remaining : 53
+TLS Version    : TLSv1.3
+Status         : VALID
+==================================================
+
